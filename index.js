@@ -56,7 +56,7 @@ function runQuery() {
         .then((answers) => {
             console.log(answers)
             const mark = MarkDown.generateMarkdown(answers)
-            fs.writeFile('README.md', mark, (error) => {
+            fs.writeFile('READMEGN.md', mark, (error) => {
                 if (error) {
                     console.log('Could not save file', error)
                 } else {
@@ -70,11 +70,3 @@ function runQuery() {
 }
 runQuery()
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
