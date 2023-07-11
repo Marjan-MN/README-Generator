@@ -8,11 +8,12 @@ I created a command-line application that dynamically generates a professional R
 node index.js
 ```
 
-Because this is a command-line application won’t be deployed, here is a <a href="chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/e5f22f60-2f56-46f0-ycbe-e1ab68e05de1" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application.
+Because this is a command-line application won’t be deployed, here is a <a href="chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/561d1aa3-17f2-4eb9-y1bf-a2074fa5bfea" target="_blank">Link</a> to a video walkthrough that demonstrates the functionality of my application. 
 
 ## Application Running in Command Line
 The following picture shows the command line functionality of the program:
-![README]()
+![README](./assets/Untitled_%20Jul%2010,%202023%2010_06%20PM.gif)
+
 
 
 ## User Story
